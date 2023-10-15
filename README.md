@@ -1,3 +1,11 @@
+
+This is webpage designed for the task of Front End Intern Hiring in just 2 days. Refere to the deployment in (https://zippy-churros-679b65.netlify.app)
+
+Refer to my other Projects' deployments here:
+https://ai-article-summarizer-seven.vercel.app/
+https://threads-wine-eight.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
