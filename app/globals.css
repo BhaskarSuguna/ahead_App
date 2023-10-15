@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255,255,255;
+  --background-start-rgb: 255, 255, 255;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.landing-styling{
+  background-color: black;
+}
+.button-stylings{
+  color: black;
+  background-color: red;
+  width: 20%;
+}
+
+/*.header1-styling {
+
+  width: 30%;  
+  height: 20%;
+} */
+/*.first-div {
+
+  background-color: #ebeafb;
+  border-radius: 50px;
+  padding: 2rem;
+  padding-top: 10rem;
+  height: 80%; 
+} */
